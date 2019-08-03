@@ -103,6 +103,7 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\Test\Index.cshtml" />
+    <Content Include="Views\Test\Test.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
